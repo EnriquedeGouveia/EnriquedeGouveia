@@ -1,8 +1,6 @@
-### Self proclaimed cyclist, amateur 
-### chef, seasonal gamer, frustrated 
-### guitar player, passionate about 
-### tech and in the beginning of my IT 
-### career.
+### Self proclaimed cyclist, amateur chef,
+### seasonal gamer, frustrated guitar player, 
+### passionate about all things tech and in the beginning of my IT career.
 
 <!--
 **EnriquedeGouveia/EnriquedeGouveia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
